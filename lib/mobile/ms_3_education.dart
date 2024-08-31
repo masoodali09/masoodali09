@@ -42,7 +42,7 @@ class MS3Education extends StatelessWidget {
             ),
             ContainerCard().type1(
               image: 'assets/images/mms.png',
-              title: DataValues.educationOrg2Title,
+              title: DataValues.educationOrg1Title,
               message: DataValues.linkedinURL.toString(),
               url: DataValues.linkedinURL,
               description: '${DataValues.educationOrg1Course1Name}\n'
